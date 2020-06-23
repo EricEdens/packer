@@ -140,6 +140,7 @@ export default [
       },
       'variables',
       'locals',
+      'special-variables',
       'syntax',
       'onlyexcept',
       'expressions',
